@@ -13,7 +13,7 @@
     "font-awesome": "^4.7.0",
     "history": "^4.7.2",
     "immutable": "^3.8.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "numeral": "^2.0.6",
     "prop-types": "^15.6.0",
     "query-string": "^5.0.1",
